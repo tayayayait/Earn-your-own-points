@@ -15,6 +15,7 @@ Set these in Vercel Project Settings under Environment Variables for Production,
 - `VITE_SUPABASE_URL`
 
 Do not commit local `.env` files. Use `.env.example` as the committed template.
+Local Vercel CLI uploads should respect `.vercelignore` so local secrets and build artifacts are not uploaded.
 
 ## Local Verification
 

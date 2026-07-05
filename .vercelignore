@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+.git
+.tanstack
+.vercel
+.vinxi
+.wrangler
+.output
+.nitro
+node_modules
+supabase/.temp

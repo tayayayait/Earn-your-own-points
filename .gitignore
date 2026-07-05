@@ -28,6 +28,9 @@ dist-ssr
 # Supabase local metadata
 supabase/.temp/
 
+# Vercel local metadata
+.vercel/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
